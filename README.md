@@ -4,7 +4,7 @@ A fully responsive, modern website built as part of an assignment for a company 
 
 🌐 Live Demo
 
-[View Live Site](https://anamikaraj03.github.io/Project/)
+[View Live Site](https://anamikaraj03.github.io/digital-marketing-agency-site/)
 
  Features
 
